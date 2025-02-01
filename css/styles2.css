@@ -84,20 +84,19 @@ nav ul li:hover .dropdown-content {
     text-align: center;
     padding: 1em;
     color: white; /* 白色字体 */
-     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);  /* 添加黑色阴影 */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* 添加黑色阴影 */
 }
 
 #home {
-   /* background-image: url('assets\bg.png'); 主页背景图片 */
-    background-image: url('bg.png')
+    background-image: url('https://github.com/jiandallc/jiandallc.github.io/tree/main/assets/bg.png'); /* 主页背景图片 */
 }
 
 #services {
-    background-image: url('services.webp'); /* 服务页面背景图片 */
+    background-image: url('https://github.com/jiandallc/jiandallc.github.io/tree/main/assets/services.webp'); /* 服务页面背景图片 */
 }
 
 #contact {
-    background-image: url('contact.webp'); /* 联系页面背景图片 */
+    background-image: url('https://github.com/jiandallc/jiandallc.github.io/tree/main/assets/contact.webp'); /* 联系页面背景图片 */
 }
 
 .overlay {
@@ -109,11 +108,6 @@ nav ul li:hover .dropdown-content {
 .text-content {
     padding: 2em;
     text-align: center;
-    color: yellow; /* 黄色字体 */
-}
-
-.services-content {
-    color: yellow; /* 黄色字体 */
 }
 
 .container {
@@ -175,15 +169,14 @@ h2 {
 }
 
 footer {
-    /* background-color: #28a745; 绿色背景 */
-    background-color: white; /* 白色背景 */
-    color: black;
+    background-color: #28a745; /* 绿色背景 */
+    color: white;
     text-align: center;
     padding: 0.1em 0; /* 将内边距减半 */
     position: fixed;
     width: 100%;
     bottom: 0;
-    /* border-top: 0.5px solid #ddd;  添加顶部边框 */
+    border-top: 0.5px solid #ddd; /* 添加顶部边框 */
 }
 
 .gallery-row {
@@ -268,3 +261,9 @@ footer {
 }
 
 
+
+/* 添加以下代码 
+.contact-info p {
+    line-height: 1.6; /* 设置行间距 */
+    font-weight: bold; /* 设置加粗 */
+} */
