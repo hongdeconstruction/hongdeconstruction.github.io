@@ -1,6 +1,4 @@
-# Hongde_Construction_LLC_website
-
-About Hongde Construction LLC
+# hongdeconstruction.github.io
 
 Hongde Construction LLC is a premier real estate development and construction company specializing in commercial and residential real estate development as well as large-scale renovation services. With a commitment to quality, efficiency, and innovation, we provide end-to-end solutions for property owners, developers, and investors.
 
